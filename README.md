@@ -1,2 +1,2 @@
-# LearnEleventy
-LearnEleventy
+# eleventy-from-scratch
+eleventy-from-scratch
